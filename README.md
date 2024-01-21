@@ -1,2 +1,1 @@
-A very simple code that can read effects that pertain to the graveyard.
-API : https://ygoprodeck.com/api-guide/
+A repository that contains very simpled codes using API
